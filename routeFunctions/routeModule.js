@@ -1,4 +1,3 @@
-
 // rant server will be using websocket for real time posting and updating
 //  rant should be a permission network , not everyone can access it 
 require("dotenv")
